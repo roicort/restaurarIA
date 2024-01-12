@@ -1,0 +1,23 @@
+<ul>
+  <li>
+    <a href="{{ site.url }}{{site.baseurl}}/">Inicio</a>
+  </li>
+  <li>
+    <a href="{{ site.url }}{{site.baseurl}}/about">Acerca</a>
+  </li>
+  {% for page in site.pages %}
+    {% if page.menu %}
+      <li>
+        <a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
+      </li>
+    {% endif %}
+  {% endfor %}
+  <li>
+    <a href="{{ site.url }}{{site.baseurl}}/movies">Películas</a>
+  </li>
+  {% if site.email %}
+    <li>
+      <a href="{{ site.url }}{{site.baseurl}}/contact/">Contacto</a>
+    </li>
+  {% endif %}
+</ul>
