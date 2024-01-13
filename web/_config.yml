@@ -12,7 +12,7 @@ show_hero: true
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: "RestaurarIA/restauraria.github.io"
+github_username: "roicort"
 facebook_username: 
 twitter_username:
 instagram_username:
@@ -38,7 +38,7 @@ two_columns_layout: false
 # Advanced Settings
 baseurl: "restaurarIA" # the subpath of your site, e.g. /blog
 url: "https://restauraria.github.io" # the base hostname & protocol for your site
-google_analytics: "G-97B18LZDRF"
+google_analytics: ""
 language: "es"
 
 
