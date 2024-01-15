@@ -2,7 +2,7 @@
 date: 1958-01-01 12:26:40
 layout: post
 title: El Brazo Fuerte
-image: "/assets/img/peliculas/brazofuerte.jpg"
+image: "restaurarIA/assets/img/peliculas/brazofuerte.jpg"
 featured: true
 tags:
   - "1958"

@@ -2,7 +2,7 @@
 date: 1950-01-01 12:26:40
 layout: post
 title: Los Olvidados
-image: "/assets/img/peliculas/losolvidados.png"
+image: "restaurarIA/assets/img/peliculas/losolvidados.png"
 featured: true
 tags:
   - "1950"
